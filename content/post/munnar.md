@@ -83,7 +83,7 @@ If you are looking for a more exciting activity, then you can visit the Wonder V
 
 # Bonus Locations
 Every place have attractive places that are rarely visited. A little exploration and you will end up
-exploring some hidden gem. If you are such kind of a person, we have something specially for you.
+exploring some hidden gem. If you are such kind of a person, I have something specially for you.
 
 ## Chinnar  Wildlife Stay
 The area is diverse in eco systems and rich in ethnic cultural heritage. I personally recommend staying at this beautiful place for a night. There are multiple options to select from, for your stay at [Chinnar](https://chinnar.org/). You can stay at a mud house or a tree house. We stayed at Vasyappara Ethnic Mud House and it was one of the best night of my life.
@@ -100,6 +100,6 @@ Next time that you plan a vacation, I recommend renting a room for one of the ma
 
 ![munnar_hotel](https://lh3.googleusercontent.com/TCN0G71f0Vj9bIgWQwG9sCP6yfP7GefEaS1bJQTAiy9PBozcppygVmwtj_LDu-QFG4nn82YBQ0vPJRIzkQ2PX2yKmVNdvDe-1e3tqaMyoGDHzrNQXc7m373kY6x5qKhlx8Ya1CBNzm0g5eo8IYZ_eTnl9eBMh4_bK4EKQkKFodKOkA6cgVCeAm-x8XCXyJdiEOv7g2P4dDEmUJH79Pl3BpNDsB36UjZiQMfo7g66EFoAamMAcYQSUW-Nl8U6zmrY2SDaaEVoHY1DSBFz2rXjVEHVyOC6QTl0brF44HBympg1q3uPBbN3DaUbLRoBpiooC-WuA9hhksIuXzlwIUtBWVPS3Y8y9EiYmajaxa6rXHN0AoaoIrZYUHyLypOBNND8T3odj6y2UtBW0Q3ZY-05Cdypou-kCpkxPEC40Sx2IgLap7l3ceoY2nu8U0ifQwDeVPMSSpuBaCy1KCy0FQMigW1vIPpfXLcy28ysY10_kPpckw5CMedC21AWstvgfGXeNXN3HVefaLNTLyXTQslbqugT0xi82NsVVa37fu_9Iozbmi2W-Eg9dIh4FKL0ukCQsAPKgNLR_1L2qH_dU7rpiFL6IJN7-E0ZHwwmhBQ6sHuqHMltIgsl1UebFMU0AV88CMBiZwtYpqb--kFtHo6lO5VPM31oKanNlgasWcXv4_6a1_c-c5ZZI5OhnLh-69gnCYaSgdjUt6bvsTo9BEOb9ZyhA_ZeOFOBxOOL17JLlN6XfHKkofx-bwg=w1246-h341-no?authuser=0 "Hotel")
 
-Do any of these gorgeous locations sound appealing to you? Are any of these natural treasures your personal favorite? Let us know what you think!
+Do any of these gorgeous locations sound appealing to you? Are any of these natural treasures your personal favorite? Let me know what you think!
 
 Thanks for reading!
