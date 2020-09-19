@@ -19,7 +19,7 @@ categories = [
 menu = "main"
 +++
 
-Despite the decrease in international travel during these unprecedented times, many people are still afflicted with wanderlust, dreaming of their next unique destination. Whether you’re in the middle of booking your next trip or simply toying with the idea for now, we’ve got a few tips for things to do in the beautiful hill-station of Munnar, Kerala, India. It may just convince you to buy a plane ticket.
+Despite the decrease in international travel during these unprecedented times, many people are still afflicted with wanderlust, dreaming of their next unique destination. Whether you’re in the middle of booking your next trip or simply toying with the idea for now, I’ve got a few tips for things to do in the beautiful hill-station of Munnar, Kerala, India. It may just convince you to buy a plane ticket.
 
 Before we dive into the wonderful experience of Munnar, let us dive into its location.
 
