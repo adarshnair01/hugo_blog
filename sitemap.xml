@@ -8,12 +8,22 @@
   </url>
   
   <url>
+    <loc>https://adarshnair01.github.com/hugo_blog/tags/chain/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://adarshnair01.github.com/hugo_blog/tags/chinnar/</loc>
     <lastmod>2020-09-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://adarshnair01.github.com/hugo_blog/tags/data/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adarshnair01.github.com/hugo_blog/post/markov_chain/</loc>
     <lastmod>2020-09-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -49,6 +59,11 @@
   
   <url>
     <loc>https://adarshnair01.github.com/hugo_blog/tags/machine-learning/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adarshnair01.github.com/hugo_blog/tags/markov/</loc>
     <lastmod>2020-09-19T00:00:00+00:00</lastmod>
   </url>
   
