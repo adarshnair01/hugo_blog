@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://adarshnair.online/hugo_blog//sitemap.xml
