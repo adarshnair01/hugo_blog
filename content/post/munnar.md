@@ -9,6 +9,7 @@ tags = [
     "trip",
     "travel",
     "kerala",
+    "friends"
 ]
 date = "2020-09-19"
 categories = [
