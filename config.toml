@@ -1,4 +1,4 @@
-baseurl = "https://adarshnair01.github.com/hugo_blog/"
+baseurl = "https://adarshnair.online/hugo_blog/"
 languageCode = "en"
 title = "Ski and learn"
 theme = "kiss"
@@ -26,7 +26,7 @@ codeCopy = true # Add copy button above code blocks
 taxonomiesCount = true # Add taxonomies count
 
 [params.features]
-disqusOnDemand = true  # Load Disqus comments on click
+disqusOnDemand = false  # Load Disqus comments on click
 
 [params.opengraph.facebook]
 admins = [] # array of Facebook IDs

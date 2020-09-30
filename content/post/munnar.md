@@ -17,6 +17,7 @@ categories = [
     "kerala",
 ]
 menu = "main"
+image = "https://instagram.fcok7-1.fna.fbcdn.net/v/t51.2885-15/e35/99087793_897378187404690_7142110321662158947_n.jpg?_nc_ht=instagram.fcok7-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=0o_e7g5NDdsAX-lTpel&_nc_tp=18&oh=dc8c79bd78a968346ef2789e0ba634b8&oe=5F9083D6"
 +++
 
 Despite the decrease in international travel during these unprecedented times, many people are still afflicted with wanderlust, dreaming of their next unique destination. Whether you’re in the middle of booking your next trip or simply toying with the idea for now, I’ve got a few tips for things to do in the beautiful hill-station of Munnar, Kerala, India. It may just convince you to buy a plane ticket.

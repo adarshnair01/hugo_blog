@@ -18,6 +18,7 @@ categories = [
 menu = "main"
 
 math= true
+image = "https://lh3.googleusercontent.com/pw/ACtC-3cb_hJasJEgfJ_kiSWOcLI1eQRbCJ0kGh_ijrdm3SbIVr-r5gc8RHHTmWq2UDMKBG9rH872bowGO5CekTPCU9oKechNInGLdaoebLgQnZg8s9vSvcfnJGPTnpe43eXy5tYGc2bYbGCe03kpuYoQFt8_6g=w934-h589-no?authuser=0"
 +++
 
 Because of current technology advances, machine learning nowadays is able to make decision close to what human would make, on its own. It was birthed from pattern recognition and the belief that computers will teach without being programmed to accomplish particular tasks; researchers involved in artificial intelligence needed to think if computers would learn from data. This repetitive view of machine learning is crucial because as models are exposed to current information, they are able to independently change. They learn from past calculations to make honest, repeatable conclusions and outcomes. It’s the field that’s not original – but one that has gained fresh strength.
