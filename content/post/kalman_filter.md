@@ -1,4 +1,24 @@
-# Understanding Kalman Filters: A Practical Example
++++
+title = "Understanding Kalman Filters: A Practical Example"
+description = "A blog  post explaining the beauty of Kalman Filters with an example"
+tags = [
+    "kalman",
+    "filter",
+    "gaussian",
+    "control systems",
+    "gps",
+    "example",
+    "estimation",
+    "mathematics"
+]
+date = "2023-01-27"
+categories = [
+    "data science",
+    "kalman filter",
+    "algorithm",
+]
+menu = "main"
++++
 
 Kalman filters are a powerful tool for estimating the state of a system based on a series of measurements. They are widely used in a variety of applications, including navigation, control systems, and signal processing. In this post, we will explore the concept of Kalman filters through a simple example of tracking a moving object using GPS measurements.
 
