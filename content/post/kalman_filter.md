@@ -11,11 +11,12 @@ tags = [
     "estimation",
     "mathematics"
 ]
-date = "2023-01-27"
+date = "2023-01-26"
 categories = [
     "data science",
     "kalman filter",
     "algorithm",
+    "mathematics"
 ]
 menu = "main"
 +++
