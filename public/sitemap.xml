@@ -3,92 +3,297 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://adarshnair01.github.com/hugo_blog/tags/chinnar/</loc>
+    <loc>https://adarshnair.online/hugo_blog/tags/control-systems/</loc>
+    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adarshnair.online/hugo_blog/tags/estimation/</loc>
+    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adarshnair.online/hugo_blog/tags/example/</loc>
+    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adarshnair.online/hugo_blog/tags/filter/</loc>
+    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adarshnair.online/hugo_blog/tags/gaussian/</loc>
+    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adarshnair.online/hugo_blog/tags/gps/</loc>
+    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adarshnair.online/hugo_blog/tags/kalman/</loc>
+    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adarshnair.online/hugo_blog/tags/mathematics/</loc>
+    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adarshnair.online/hugo_blog/post/</loc>
+    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adarshnair.online/hugo_blog/tags/</loc>
+    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adarshnair.online/hugo_blog/post/kalman_filter/</loc>
+    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adarshnair.online/hugo_blog/tags/c-language/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adarshnair.online/hugo_blog/tags/c&#43;&#43;/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adarshnair.online/hugo_blog/tags/cons/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adarshnair.online/hugo_blog/tags/faceoff/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adarshnair.online/hugo_blog/tags/julia/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adarshnair.online/hugo_blog/tags/julia-language/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adarshnair.online/hugo_blog/post/julia_python/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adarshnair.online/hugo_blog/tags/programming/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adarshnair.online/hugo_blog/tags/pros/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adarshnair.online/hugo_blog/tags/python/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adarshnair.online/hugo_blog/tags/counter-strike/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adarshnair.online/hugo_blog/tags/counter-terrorist/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adarshnair.online/hugo_blog/tags/csgo/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adarshnair.online/hugo_blog/tags/egaming/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adarshnair.online/hugo_blog/post/valorant_vs_csgo/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adarshnair.online/hugo_blog/tags/game/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adarshnair.online/hugo_blog/tags/pc/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adarshnair.online/hugo_blog/tags/valorant/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adarshnair.online/hugo_blog/tags/ai/</loc>
     <lastmod>2020-09-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adarshnair01.github.com/hugo_blog/tags/kerala/</loc>
+    <loc>https://adarshnair.online/hugo_blog/tags/chain/</loc>
     <lastmod>2020-09-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adarshnair01.github.com/hugo_blog/tags/munnar/</loc>
+    <loc>https://adarshnair.online/hugo_blog/tags/chinnar/</loc>
     <lastmod>2020-09-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adarshnair01.github.com/hugo_blog/post/</loc>
+    <loc>https://adarshnair.online/hugo_blog/tags/data/</loc>
     <lastmod>2020-09-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adarshnair01.github.com/hugo_blog/</loc>
+    <loc>https://adarshnair.online/hugo_blog/post/markov_chain/</loc>
     <lastmod>2020-09-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adarshnair01.github.com/hugo_blog/tags/</loc>
+    <loc>https://adarshnair.online/hugo_blog/tags/entry/</loc>
     <lastmod>2020-09-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adarshnair01.github.com/hugo_blog/tags/tea-plantation/</loc>
+    <loc>https://adarshnair.online/hugo_blog/tags/fresher/</loc>
     <lastmod>2020-09-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adarshnair01.github.com/hugo_blog/tags/travel/</loc>
+    <loc>https://adarshnair.online/hugo_blog/tags/friends/</loc>
     <lastmod>2020-09-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adarshnair01.github.com/hugo_blog/tags/trip/</loc>
+    <loc>https://adarshnair.online/hugo_blog/post/entry_data_science/</loc>
     <lastmod>2020-09-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adarshnair01.github.com/hugo_blog/tags/vacation/</loc>
+    <loc>https://adarshnair.online/hugo_blog/tags/job/</loc>
     <lastmod>2020-09-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adarshnair01.github.com/hugo_blog/post/munnar/</loc>
+    <loc>https://adarshnair.online/hugo_blog/tags/kerala/</loc>
     <lastmod>2020-09-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adarshnair01.github.com/hugo_blog/tags/airtel/</loc>
+    <loc>https://adarshnair.online/hugo_blog/tags/level/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adarshnair.online/hugo_blog/tags/machine-learning/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adarshnair.online/hugo_blog/tags/markov/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adarshnair.online/hugo_blog/tags/ml/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adarshnair.online/hugo_blog/tags/munnar/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adarshnair.online/hugo_blog/tags/science/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adarshnair.online/hugo_blog/tags/tea-plantation/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adarshnair.online/hugo_blog/tags/travel/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adarshnair.online/hugo_blog/tags/trip/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adarshnair.online/hugo_blog/tags/vacation/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adarshnair.online/hugo_blog/post/munnar/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adarshnair.online/hugo_blog/tags/airtel/</loc>
     <lastmod>2018-09-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adarshnair01.github.com/hugo_blog/tags/complaint/</loc>
+    <loc>https://adarshnair.online/hugo_blog/tags/complaint/</loc>
     <lastmod>2018-09-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adarshnair01.github.com/hugo_blog/tags/customer-care/</loc>
+    <loc>https://adarshnair.online/hugo_blog/tags/customer-care/</loc>
     <lastmod>2018-09-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adarshnair01.github.com/hugo_blog/post/airtelpostpaid/</loc>
+    <loc>https://adarshnair.online/hugo_blog/post/airtelpostpaid/</loc>
     <lastmod>2018-09-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adarshnair01.github.com/hugo_blog/tags/postpaid/</loc>
+    <loc>https://adarshnair.online/hugo_blog/tags/postpaid/</loc>
     <lastmod>2018-09-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adarshnair01.github.com/hugo_blog/tags/service/</loc>
+    <loc>https://adarshnair.online/hugo_blog/tags/service/</loc>
     <lastmod>2018-09-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adarshnair01.github.com/hugo_blog/about/</loc>
+    <loc>https://adarshnair.online/hugo_blog/about/</loc>
+    <lastmod>1992-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adarshnair.online/hugo_blog/</loc>
     <lastmod>1992-08-03T00:00:00+00:00</lastmod>
   </url>
   

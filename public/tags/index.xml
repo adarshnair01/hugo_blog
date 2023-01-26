@@ -2,121 +2,445 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ski and learn</title>
-    <link>https://adarshnair01.github.com/hugo_blog/tags/</link>
+    <link>https://adarshnair.online/hugo_blog/tags/</link>
     <description>Recent content in Tags on Ski and learn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; &lt;a href=&#34;https://github.com/ribice&#34;&gt;Emir Ribic&lt;/a&gt; 2017</copyright>
-    <lastBuildDate>Sat, 19 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://adarshnair01.github.com/hugo_blog/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://adarshnair.online/hugo_blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>chinnar</title>
-      <link>https://adarshnair01.github.com/hugo_blog/tags/chinnar/</link>
+      <title>control systems</title>
+      <link>https://adarshnair.online/hugo_blog/tags/control-systems/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/tags/control-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>estimation</title>
+      <link>https://adarshnair.online/hugo_blog/tags/estimation/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/tags/estimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>example</title>
+      <link>https://adarshnair.online/hugo_blog/tags/example/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/tags/example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>filter</title>
+      <link>https://adarshnair.online/hugo_blog/tags/filter/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/tags/filter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gaussian</title>
+      <link>https://adarshnair.online/hugo_blog/tags/gaussian/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/tags/gaussian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gps</title>
+      <link>https://adarshnair.online/hugo_blog/tags/gps/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/tags/gps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kalman</title>
+      <link>https://adarshnair.online/hugo_blog/tags/kalman/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/tags/kalman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mathematics</title>
+      <link>https://adarshnair.online/hugo_blog/tags/mathematics/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/tags/mathematics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>c language</title>
+      <link>https://adarshnair.online/hugo_blog/tags/c-language/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/tags/c-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>c&#43;&#43;</title>
+      <link>https://adarshnair.online/hugo_blog/tags/c&#43;&#43;/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/tags/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cons</title>
+      <link>https://adarshnair.online/hugo_blog/tags/cons/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/tags/cons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>faceoff</title>
+      <link>https://adarshnair.online/hugo_blog/tags/faceoff/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/tags/faceoff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>julia</title>
+      <link>https://adarshnair.online/hugo_blog/tags/julia/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/tags/julia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>julia language</title>
+      <link>https://adarshnair.online/hugo_blog/tags/julia-language/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/tags/julia-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>https://adarshnair.online/hugo_blog/tags/programming/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pros</title>
+      <link>https://adarshnair.online/hugo_blog/tags/pros/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/tags/pros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://adarshnair.online/hugo_blog/tags/python/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>counter strike</title>
+      <link>https://adarshnair.online/hugo_blog/tags/counter-strike/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/tags/counter-strike/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>counter terrorist</title>
+      <link>https://adarshnair.online/hugo_blog/tags/counter-terrorist/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/tags/counter-terrorist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>csgo</title>
+      <link>https://adarshnair.online/hugo_blog/tags/csgo/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/tags/csgo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>egaming</title>
+      <link>https://adarshnair.online/hugo_blog/tags/egaming/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/tags/egaming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>game</title>
+      <link>https://adarshnair.online/hugo_blog/tags/game/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/tags/game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pc</title>
+      <link>https://adarshnair.online/hugo_blog/tags/pc/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/tags/pc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>valorant</title>
+      <link>https://adarshnair.online/hugo_blog/tags/valorant/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/tags/valorant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ai</title>
+      <link>https://adarshnair.online/hugo_blog/tags/ai/</link>
       <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://adarshnair01.github.com/hugo_blog/tags/chinnar/</guid>
+      <guid>https://adarshnair.online/hugo_blog/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chain</title>
+      <link>https://adarshnair.online/hugo_blog/tags/chain/</link>
+      <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/tags/chain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chinnar</title>
+      <link>https://adarshnair.online/hugo_blog/tags/chinnar/</link>
+      <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/tags/chinnar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data</title>
+      <link>https://adarshnair.online/hugo_blog/tags/data/</link>
+      <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/tags/data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>entry</title>
+      <link>https://adarshnair.online/hugo_blog/tags/entry/</link>
+      <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/tags/entry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fresher</title>
+      <link>https://adarshnair.online/hugo_blog/tags/fresher/</link>
+      <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/tags/fresher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>friends</title>
+      <link>https://adarshnair.online/hugo_blog/tags/friends/</link>
+      <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/tags/friends/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>job</title>
+      <link>https://adarshnair.online/hugo_blog/tags/job/</link>
+      <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/tags/job/</guid>
       <description></description>
     </item>
     
     <item>
       <title>kerala</title>
-      <link>https://adarshnair01.github.com/hugo_blog/tags/kerala/</link>
+      <link>https://adarshnair.online/hugo_blog/tags/kerala/</link>
       <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://adarshnair01.github.com/hugo_blog/tags/kerala/</guid>
+      <guid>https://adarshnair.online/hugo_blog/tags/kerala/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>level</title>
+      <link>https://adarshnair.online/hugo_blog/tags/level/</link>
+      <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/tags/level/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine learning</title>
+      <link>https://adarshnair.online/hugo_blog/tags/machine-learning/</link>
+      <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markov</title>
+      <link>https://adarshnair.online/hugo_blog/tags/markov/</link>
+      <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/tags/markov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ml</title>
+      <link>https://adarshnair.online/hugo_blog/tags/ml/</link>
+      <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/tags/ml/</guid>
       <description></description>
     </item>
     
     <item>
       <title>munnar</title>
-      <link>https://adarshnair01.github.com/hugo_blog/tags/munnar/</link>
+      <link>https://adarshnair.online/hugo_blog/tags/munnar/</link>
       <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://adarshnair01.github.com/hugo_blog/tags/munnar/</guid>
+      <guid>https://adarshnair.online/hugo_blog/tags/munnar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>science</title>
+      <link>https://adarshnair.online/hugo_blog/tags/science/</link>
+      <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/tags/science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tea plantation</title>
-      <link>https://adarshnair01.github.com/hugo_blog/tags/tea-plantation/</link>
+      <link>https://adarshnair.online/hugo_blog/tags/tea-plantation/</link>
       <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://adarshnair01.github.com/hugo_blog/tags/tea-plantation/</guid>
+      <guid>https://adarshnair.online/hugo_blog/tags/tea-plantation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>travel</title>
-      <link>https://adarshnair01.github.com/hugo_blog/tags/travel/</link>
+      <link>https://adarshnair.online/hugo_blog/tags/travel/</link>
       <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://adarshnair01.github.com/hugo_blog/tags/travel/</guid>
+      <guid>https://adarshnair.online/hugo_blog/tags/travel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>trip</title>
-      <link>https://adarshnair01.github.com/hugo_blog/tags/trip/</link>
+      <link>https://adarshnair.online/hugo_blog/tags/trip/</link>
       <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://adarshnair01.github.com/hugo_blog/tags/trip/</guid>
+      <guid>https://adarshnair.online/hugo_blog/tags/trip/</guid>
       <description></description>
     </item>
     
     <item>
       <title>vacation</title>
-      <link>https://adarshnair01.github.com/hugo_blog/tags/vacation/</link>
+      <link>https://adarshnair.online/hugo_blog/tags/vacation/</link>
       <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://adarshnair01.github.com/hugo_blog/tags/vacation/</guid>
+      <guid>https://adarshnair.online/hugo_blog/tags/vacation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>airtel</title>
-      <link>https://adarshnair01.github.com/hugo_blog/tags/airtel/</link>
+      <link>https://adarshnair.online/hugo_blog/tags/airtel/</link>
       <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://adarshnair01.github.com/hugo_blog/tags/airtel/</guid>
+      <guid>https://adarshnair.online/hugo_blog/tags/airtel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>complaint</title>
-      <link>https://adarshnair01.github.com/hugo_blog/tags/complaint/</link>
+      <link>https://adarshnair.online/hugo_blog/tags/complaint/</link>
       <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://adarshnair01.github.com/hugo_blog/tags/complaint/</guid>
+      <guid>https://adarshnair.online/hugo_blog/tags/complaint/</guid>
       <description></description>
     </item>
     
     <item>
       <title>customer care</title>
-      <link>https://adarshnair01.github.com/hugo_blog/tags/customer-care/</link>
+      <link>https://adarshnair.online/hugo_blog/tags/customer-care/</link>
       <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://adarshnair01.github.com/hugo_blog/tags/customer-care/</guid>
+      <guid>https://adarshnair.online/hugo_blog/tags/customer-care/</guid>
       <description></description>
     </item>
     
     <item>
       <title>postpaid</title>
-      <link>https://adarshnair01.github.com/hugo_blog/tags/postpaid/</link>
+      <link>https://adarshnair.online/hugo_blog/tags/postpaid/</link>
       <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://adarshnair01.github.com/hugo_blog/tags/postpaid/</guid>
+      <guid>https://adarshnair.online/hugo_blog/tags/postpaid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>service</title>
-      <link>https://adarshnair01.github.com/hugo_blog/tags/service/</link>
+      <link>https://adarshnair.online/hugo_blog/tags/service/</link>
       <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://adarshnair01.github.com/hugo_blog/tags/service/</guid>
+      <guid>https://adarshnair.online/hugo_blog/tags/service/</guid>
       <description></description>
     </item>
     

@@ -2,42 +2,88 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ski and learn</title>
-    <link>https://adarshnair01.github.com/hugo_blog/</link>
+    <link>https://adarshnair.online/hugo_blog/</link>
     <description>Recent content on Ski and learn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; &lt;a href=&#34;https://github.com/ribice&#34;&gt;Emir Ribic&lt;/a&gt; 2017</copyright>
-    <lastBuildDate>Sat, 19 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 1992 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://adarshnair01.github.com/hugo_blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://adarshnair.online/hugo_blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Visiting Munnar, Kerala: Things to do in Munnar and More</title>
-      <link>https://adarshnair01.github.com/hugo_blog/post/munnar/</link>
+      <title>Understanding Kalman Filters: A Practical Example</title>
+      <link>https://adarshnair.online/hugo_blog/post/kalman_filter/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/post/kalman_filter/</guid>
+      <description>Kalman filters are a powerful tool for estimating the state of a system based on a series of measurements. They are widely used in a variety of applications, including navigation, control systems, and signal processing. In this post, we will explore the concept of Kalman filters through a simple example of tracking a moving object using GPS measurements.
+Scenario Our example scenario is a moving object that we want to track using GPS measurements.</description>
+    </item>
+    
+    <item>
+      <title>Julia, My New Girlfriend</title>
+      <link>https://adarshnair.online/hugo_blog/post/julia_python/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/post/julia_python/</guid>
+      <description>Julia ❤ , The first thing that hits my mind each morning when I wake up is you. Loving you is like an addiction on me. My life, before you came into it, was incomplete. My life has changed completely ever since I met you. Meeting each other, you and I, was not an accident.Before we met each other, our history was written by the Almighty. For this, I thank God everyday from the bottom of my heart!</description>
+    </item>
+    
+    <item>
+      <title>Face-off: Valorant VS Counter Strike GO</title>
+      <link>https://adarshnair.online/hugo_blog/post/valorant_vs_csgo/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/post/valorant_vs_csgo/</guid>
+      <description>Valorant and CS GO are two very similar games, and they do stand out with their unique gameplay and focus on teamwork. When I heard that Riot is making a new game that is similar to CS GO, most of us were excited and for a very good reason. CS GO is upwards of 8 years old at this point, so having a new take on the genre was much overdue.</description>
+    </item>
+    
+    <item>
+      <title>Discrete Markov-chain in layman&#39;s terms: Part 1</title>
+      <link>https://adarshnair.online/hugo_blog/post/markov_chain/</link>
       <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://adarshnair01.github.com/hugo_blog/post/munnar/</guid>
+      <guid>https://adarshnair.online/hugo_blog/post/markov_chain/</guid>
+      <description>Because of current technology advances, machine learning nowadays is able to make decision close to what human would make, on its own. It was birthed from pattern recognition and the belief that computers will teach without being programmed to accomplish particular tasks; researchers involved in artificial intelligence needed to think if computers would learn from data. This repetitive view of machine learning is crucial because as models are exposed to current information, they are able to independently change.</description>
+    </item>
+    
+    <item>
+      <title>Get a data science job with no experience.</title>
+      <link>https://adarshnair.online/hugo_blog/post/entry_data_science/</link>
+      <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/post/entry_data_science/</guid>
+      <description>Data science is a very popular industry and it continues to grab the attention for a lot of people. You get to harness and quantify data, while also getting an amazing paycheck. That being said, getting into this field can be difficult. Which is why you want to target some entry level data science jobs at first. However, you need to make sure that you avoid any possible mistakes that might appear.</description>
+    </item>
+    
+    <item>
+      <title>Visiting Munnar, Kerala: Things to do in Munnar and More</title>
+      <link>https://adarshnair.online/hugo_blog/post/munnar/</link>
+      <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/post/munnar/</guid>
       <description>Despite the decrease in international travel during these unprecedented times, many people are still afflicted with wanderlust, dreaming of their next unique destination. Whether you’re in the middle of booking your next trip or simply toying with the idea for now, I’ve got a few tips for things to do in the beautiful hill-station of Munnar, Kerala, India. It may just convince you to buy a plane ticket.
 Before we dive into the wonderful experience of Munnar, let us dive into its location.</description>
     </item>
     
     <item>
       <title>Every coin has two sides. So does Airtel</title>
-      <link>https://adarshnair01.github.com/hugo_blog/post/airtelpostpaid/</link>
+      <link>https://adarshnair.online/hugo_blog/post/airtelpostpaid/</link>
       <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://adarshnair01.github.com/hugo_blog/post/airtelpostpaid/</guid>
+      <guid>https://adarshnair.online/hugo_blog/post/airtelpostpaid/</guid>
       <description>I am very disappointed with the service that Airtel Customer care have provided and equally disappointed with the service I have received from their store. They’re literally looting my money and I have to wait for their help because there’s nothing that I can do, other than posting it online.
 Journey on Pushpak Viman To Postpaid Here’s what I have been through after I thought to move to postpaid. Once I checked Airtel’s website and came to know they have good plans in postpaid with very high data usage which can be used, I tried registering for an airtel postpaid connection online.</description>
     </item>
     
     <item>
       <title>About Adarsh</title>
-      <link>https://adarshnair01.github.com/hugo_blog/about/</link>
+      <link>https://adarshnair.online/hugo_blog/about/</link>
       <pubDate>Mon, 03 Aug 1992 00:00:00 +0000</pubDate>
       
-      <guid>https://adarshnair01.github.com/hugo_blog/about/</guid>
+      <guid>https://adarshnair.online/hugo_blog/about/</guid>
       <description>A simple boy</description>
     </item>
     
