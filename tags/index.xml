@@ -7,10 +7,82 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; &lt;a href=&#34;https://github.com/ribice&#34;&gt;Emir Ribic&lt;/a&gt; 2017</copyright>
-    <lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://adarshnair.online/hugo_blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>control systems</title>
+      <link>https://adarshnair.online/hugo_blog/tags/control-systems/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/tags/control-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>estimation</title>
+      <link>https://adarshnair.online/hugo_blog/tags/estimation/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/tags/estimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>example</title>
+      <link>https://adarshnair.online/hugo_blog/tags/example/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/tags/example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>filter</title>
+      <link>https://adarshnair.online/hugo_blog/tags/filter/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/tags/filter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gaussian</title>
+      <link>https://adarshnair.online/hugo_blog/tags/gaussian/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/tags/gaussian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gps</title>
+      <link>https://adarshnair.online/hugo_blog/tags/gps/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/tags/gps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kalman</title>
+      <link>https://adarshnair.online/hugo_blog/tags/kalman/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/tags/kalman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mathematics</title>
+      <link>https://adarshnair.online/hugo_blog/tags/mathematics/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/tags/mathematics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>c language</title>

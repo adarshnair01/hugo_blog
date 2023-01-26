@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; &lt;a href=&#34;https://github.com/ribice&#34;&gt;Emir Ribic&lt;/a&gt; 2017</copyright>
-    <lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://adarshnair.online/hugo_blog/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Understanding Kalman Filters: A Practical Example</title>
+      <link>https://adarshnair.online/hugo_blog/post/kalman_filter/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/post/kalman_filter/</guid>
+      <description>Kalman filters are a powerful tool for estimating the state of a system based on a series of measurements. They are widely used in a variety of applications, including navigation, control systems, and signal processing. In this post, we will explore the concept of Kalman filters through a simple example of tracking a moving object using GPS measurements.
+Scenario Our example scenario is a moving object that we want to track using GPS measurements.</description>
+    </item>
     
     <item>
       <title>Julia, My New Girlfriend</title>
@@ -66,16 +76,6 @@ Before we dive into the wonderful experience of Munnar, let us dive into its loc
       <guid>https://adarshnair.online/hugo_blog/post/airtelpostpaid/</guid>
       <description>I am very disappointed with the service that Airtel Customer care have provided and equally disappointed with the service I have received from their store. They’re literally looting my money and I have to wait for their help because there’s nothing that I can do, other than posting it online.
 Journey on Pushpak Viman To Postpaid Here’s what I have been through after I thought to move to postpaid. Once I checked Airtel’s website and came to know they have good plans in postpaid with very high data usage which can be used, I tried registering for an airtel postpaid connection online.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://adarshnair.online/hugo_blog/post/kalman_filter/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://adarshnair.online/hugo_blog/post/kalman_filter/</guid>
-      <description>Understanding Kalman Filters: A Practical Example Kalman filters are a powerful tool for estimating the state of a system based on a series of measurements. They are widely used in a variety of applications, including navigation, control systems, and signal processing. In this post, we will explore the concept of Kalman filters through a simple example of tracking a moving object using GPS measurements.
-Scenario Our example scenario is a moving object that we want to track using GPS measurements.</description>
     </item>
     
   </channel>
