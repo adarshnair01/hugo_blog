@@ -68,5 +68,15 @@ Before we dive into the wonderful experience of Munnar, let us dive into its loc
 Journey on Pushpak Viman To Postpaid Here’s what I have been through after I thought to move to postpaid. Once I checked Airtel’s website and came to know they have good plans in postpaid with very high data usage which can be used, I tried registering for an airtel postpaid connection online.</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://adarshnair.online/hugo_blog/post/kalman_filter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/post/kalman_filter/</guid>
+      <description>Understanding Kalman Filters: A Practical Example Kalman filters are a powerful tool for estimating the state of a system based on a series of measurements. They are widely used in a variety of applications, including navigation, control systems, and signal processing. In this post, we will explore the concept of Kalman filters through a simple example of tracking a moving object using GPS measurements.
+Scenario Our example scenario is a moving object that we want to track using GPS measurements.</description>
+    </item>
+    
   </channel>
 </rss>

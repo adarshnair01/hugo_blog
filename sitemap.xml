@@ -58,11 +58,6 @@
   </url>
   
   <url>
-    <loc>https://adarshnair.online/hugo_blog/</loc>
-    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://adarshnair.online/hugo_blog/tags/</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
   </url>
@@ -250,6 +245,15 @@
   <url>
     <loc>https://adarshnair.online/hugo_blog/about/</loc>
     <lastmod>1992-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adarshnair.online/hugo_blog/</loc>
+    <lastmod>1992-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adarshnair.online/hugo_blog/post/kalman_filter/</loc>
   </url>
   
 </urlset>
