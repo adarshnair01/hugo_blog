@@ -13,6 +13,16 @@
     
     
     <item>
+      <title>Understanding Kalman Filters: A Practical Example</title>
+      <link>https://adarshnair.online/hugo_blog/post/kalman_filter/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/post/kalman_filter/</guid>
+      <description>Kalman filters are a powerful tool for estimating the state of a system based on a series of measurements. They are widely used in a variety of applications, including navigation, control systems, and signal processing. In this post, we will explore the concept of Kalman filters through a simple example of tracking a moving object using GPS measurements.
+Scenario Our example scenario is a moving object that we want to track using GPS measurements.</description>
+    </item>
+    
+    <item>
       <title>Julia, My New Girlfriend</title>
       <link>https://adarshnair.online/hugo_blog/post/julia_python/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>

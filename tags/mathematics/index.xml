@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mathematics on Ski and learn</title>
+    <link>https://adarshnair.online/hugo_blog/tags/mathematics/</link>
+    <description>Recent content in mathematics on Ski and learn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; &lt;a href=&#34;https://github.com/ribice&#34;&gt;Emir Ribic&lt;/a&gt; 2017</copyright>
+    <lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://adarshnair.online/hugo_blog/tags/mathematics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Understanding Kalman Filters: A Practical Example</title>
+      <link>https://adarshnair.online/hugo_blog/post/kalman_filter/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/post/kalman_filter/</guid>
+      <description>Kalman filters are a powerful tool for estimating the state of a system based on a series of measurements. They are widely used in a variety of applications, including navigation, control systems, and signal processing. In this post, we will explore the concept of Kalman filters through a simple example of tracking a moving object using GPS measurements.
+Scenario Our example scenario is a moving object that we want to track using GPS measurements.</description>
+    </item>
+    
+  </channel>
+</rss>
