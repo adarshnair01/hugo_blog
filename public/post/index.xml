@@ -59,15 +59,6 @@ Scenario Our example scenario is a moving object that we want to track using GPS
     </item>
     
     <item>
-      <title>Dubai diaries: From flight to hotel and everything in between</title>
-      <link>https://adarshnair.online/hugo_blog/post/trip_to_dubai/</link>
-      <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://adarshnair.online/hugo_blog/post/trip_to_dubai/</guid>
-      <description>Before departing on our trip, we made sure to obtain a visa for entry into Dubai. The process of obtaining a visa online was quick and easy. All we needed was a valid passport and a credit card to pay the visa fee. We got our visa from MakeMyTrip which was very convenient and fast. The visa was issued electronically and we received it within a few days. With this visa, we were able to travel not only to Dubai, but also to other cities within the United Arab Emirates, such as Abu Dhabi and Sharjah.</description>
-    </item>
-    
-    <item>
       <title>Get a data science job with no experience.</title>
       <link>https://adarshnair.online/hugo_blog/post/entry_data_science/</link>
       <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>

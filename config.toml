@@ -1,6 +1,6 @@
 baseurl = "https://adarshnair.online/hugo_blog/"
 languageCode = "en"
-title = "Ski and learn"
+title = "Tech Jaunts"
 theme = "kiss"
 copyright = "&copy; <a href=\"https://github.com/ribice\">Emir Ribic</a> 2017"
 disqusShortname = "adarshnair01"
