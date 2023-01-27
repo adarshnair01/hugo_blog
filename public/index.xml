@@ -23,6 +23,15 @@ Scenario Our example scenario is a moving object that we want to track using GPS
     </item>
     
     <item>
+      <title>Dubai diaries: From flight to hotel and everything in between</title>
+      <link>https://adarshnair.online/hugo_blog/post/trip_to_dubai/</link>
+      <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/post/trip_to_dubai/</guid>
+      <description>Before departing on our trip, we made sure to obtain a visa for entry into Dubai. The process of obtaining a visa online was quick and easy. All we needed was a valid passport and a credit card to pay the visa fee. We got our visa from MakeMyTrip which was very convenient and fast. The visa was issued electronically and we received it within a few days. With this visa, we were able to travel not only to Dubai, but also to other cities within the United Arab Emirates, such as Abu Dhabi and Sharjah.</description>
+    </item>
+    
+    <item>
       <title>Julia, My New Girlfriend</title>
       <link>https://adarshnair.online/hugo_blog/post/julia_python/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
@@ -47,6 +56,15 @@ Scenario Our example scenario is a moving object that we want to track using GPS
       
       <guid>https://adarshnair.online/hugo_blog/post/markov_chain/</guid>
       <description>Because of current technology advances, machine learning nowadays is able to make decision close to what human would make, on its own. It was birthed from pattern recognition and the belief that computers will teach without being programmed to accomplish particular tasks; researchers involved in artificial intelligence needed to think if computers would learn from data. This repetitive view of machine learning is crucial because as models are exposed to current information, they are able to independently change.</description>
+    </item>
+    
+    <item>
+      <title>Dubai diaries: From flight to hotel and everything in between</title>
+      <link>https://adarshnair.online/hugo_blog/post/trip_to_dubai/</link>
+      <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adarshnair.online/hugo_blog/post/trip_to_dubai/</guid>
+      <description>Before departing on our trip, we made sure to obtain a visa for entry into Dubai. The process of obtaining a visa online was quick and easy. All we needed was a valid passport and a credit card to pay the visa fee. We got our visa from MakeMyTrip which was very convenient and fast. The visa was issued electronically and we received it within a few days. With this visa, we were able to travel not only to Dubai, but also to other cities within the United Arab Emirates, such as Abu Dhabi and Sharjah.</description>
     </item>
     
     <item>
