@@ -23,7 +23,7 @@ tags = [
     "Tourism",
     "Adventure"
 ]
-date = "2020-09-19"
+date = "2022-08-19"
 categories = [
     "Travel",
     "United Arab Emirates",
